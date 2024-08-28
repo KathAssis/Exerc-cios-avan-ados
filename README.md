@@ -1,15 +1,5 @@
 # Exerc-cios-avan-ados
 
-#numero 1
-
-print("a=10")
-print("b=20")
-
-a="20"
-b="10"
-
-print(a, b)
-print(b, a)
 
 #numero 5
 n=int(input("informe o antecessor:"))
